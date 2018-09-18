@@ -1,7 +1,9 @@
 var playlist = {
-  nelly: 'Air Force 1s'
+  artist: 'Nelly'
 }
 
 var updatePLaylist = {
-  
+  var playlist = {
+    
+  }
 }
