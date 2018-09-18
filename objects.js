@@ -3,5 +3,5 @@ var playlist = {
 }
 
 function upadtePlaylist(playlist, artistName, songTitle){
-  
+  return Object.assign({}, playlist, {[artistName]: songTitle})
 }
